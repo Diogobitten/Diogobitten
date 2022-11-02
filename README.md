@@ -32,7 +32,5 @@
 </div>
   
  <div align="center">
-  <a href="#demo">View Demo</a>
-  ●
-  <a href="https://github.com/ABSphreak/readme-jokes/issues/new">Report Bugs</a>
+ 
 </div>
