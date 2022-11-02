@@ -1,4 +1,4 @@
-## Olá! Eu sou Diogo Bittencourt 👋
+## Hello there! Eu sou Diogo Bittencourt <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS e C
 - 📫 How to reach me: Diogobittenc@gmail.com
@@ -31,7 +31,8 @@
  
 </div>
   
-  <div>
-    https://editor.p5js.org/diogobitten/full/jrkcjho61
-    
-  </div>  
+ <div align="center">
+  <a href="#demo">View Demo</a>
+  ●
+  <a href="https://github.com/ABSphreak/readme-jokes/issues/new">Report Bugs</a>
+</div>
