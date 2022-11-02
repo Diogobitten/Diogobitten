@@ -1,4 +1,4 @@
-## Hello there! Eu sou Diogo Bittencourt <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+## Hello there! Eu sou Diogo Bittencourt <img src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif" width="90">
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS e C
 - 📫 How to reach me: Diogobittenc@gmail.com
