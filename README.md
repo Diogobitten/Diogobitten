@@ -34,6 +34,6 @@
   
 ##
   
- ## <a href="https://l1nq.com/pong-invaders" target="_blank"><img align="center" src="https://media.giphy.com/media/IQO0dKc9UjwNPtH3vx/giphy.gif" width="600">
-- 🕹️ Play >> https://l1nq.com/pong-invaders
+ <a href="https://l1nq.com/pong-invaders" target="_blank"><img align="center" src="https://media.giphy.com/media/JiQJ95hKcgyZOTDqsi/giphy.gif" width="600">
+
  
