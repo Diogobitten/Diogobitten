@@ -1,4 +1,4 @@
-## Hello there! Eu sou Diogo Bittencourt <img align="center" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif" width="150">
+## Hello there! I'm Diogo Bittencourt <img align="center" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif" width="150">
 
 - 🌱 I’m currently learning Python, JavaScript, HTML, CSS e C
 - 📫 How to reach me: Diogobittenc@gmail.com
@@ -34,6 +34,6 @@
   
 ##
   
- <a href="[https://l1nq.com/pong-invaders](https://editor.p5js.org/diogobitten/sketches/r8_dJFJok)" target="_blank"><img align="center" src="https://media.giphy.com/media/JiQJ95hKcgyZOTDqsi/giphy.gif" width="600">
+ <a href="https://editor.p5js.org/diogobitten/full/r8_dJFJok" target="_blank"><img align="center" src="https://media.giphy.com/media/JiQJ95hKcgyZOTDqsi/giphy.gif" width="600"></a>
 
  
