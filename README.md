@@ -1,6 +1,6 @@
 ## Hello there! I'm Diogo Bittencourt <img align="center" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif" width="150">
 
-- 🌱 I’m currently learning Python, JavaScript, HTML, CSS e C
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, Java and C#
 - 📫 How to reach me: Diogobittenc@gmail.com
 - 😄 Pronouns: He/him
 
