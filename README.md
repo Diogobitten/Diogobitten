@@ -41,7 +41,7 @@
 
 🕹️ Click on the image to play 👇
 
-<a href="https://editor.p5js.org/diogobitten/full/r8_dJFJok" target="_blank">
+<a href="https://editor.p5js.org/diogobitten/full/xCNjsYa9_" target="_blank">
   <img src="https://media.giphy.com/media/JiQJ95hKcgyZOTDqsi/giphy.gif" width="600">
 </a>
 
