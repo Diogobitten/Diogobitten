@@ -29,8 +29,9 @@
   <a href="https://instagram.com/diogobitten" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/diogob" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:diogobittenc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-![snake gif](https://github.com/diogobitten/diogobitten/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/diogobitten/diogobitten/output/github-contribution-grid-snake.svg)
+
  
 </div>
   
