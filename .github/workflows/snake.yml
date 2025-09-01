@@ -20,6 +20,7 @@ jobs:
           github_user_name: diogobitten
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=orange&color_dots=#dadcdf94,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
